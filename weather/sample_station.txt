@@ -1,0 +1,5 @@
+﻿++ station ++                                            ## タイトル
+NUMBER  CALL  NAME + COUNTRY/STATE   LAT   LON    ELEV   ## ヘッダ行
+xxxxxx                               +4323 +14526 +0015  ## xxxxxx は各気象データのファイル名と対応(拡張子を除く))
+yyyyyy                               +4338 +14512 +0007  ## LAT LON ELEVは pcp ファイルと同じルールで入力
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ## 気象観測点を複数つかう場合は yyyyyy のように次行に入力

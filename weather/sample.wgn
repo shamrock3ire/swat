@@ -1,0 +1,20 @@
+Title xxxx station                                                         # title
+  LATITUDE =  43.23 LONGITUDE = 145.26                                     # 緯度経度
+  ELEV [m] =  15.00                                                        # 標高
+  RAIN_YRS =  10.00                                                        # 
+
+ -1.56  0.02  4.28 10.59 13.94 17.51 21.32 20.72 17.31 11.85  4.63 -0.19   # tmpmx(jan feb ...Dec) 月別に要素をスペース区切りで並べる(以下同じ)
+                                                                           # tmpmn(jan feb ...Dec)
+                                                                           # tmpstmx(jan feb ...Dec)
+                                                                           # tmpstdmn(jan feb ...Dec)
+                                                                           # pcpmm(jan feb ...Dec)
+                                                                           # pcpstd(jan feb ...Dec)
+                                                                           # pcpskw(jan feb ...Dec)
+                                                                           # pr_w1(jan feb ...Dec)
+                                                                           # pr_w2(jan feb ...Dec)
+                                                                           # pcpd(jan feb ...Dec)
+                                                                           # rainhhmx(jan feb ...Dec)
+                                                                           # solarav(jan feb ...Dec)
+                                                                           # dewpt(jan feb ...Dec)
+                                                                           # windav(jan feb ...Dec)
+

@@ -1,0 +1,7 @@
+hoge solar radiation   # 任意のタイトル
+19950010003.879        # YYYYDDDSSSS.SSS
+19950020008.667        # YYYY  :西暦(4桁)
+19950030004.724        # DDD   :julian date(3桁 ゼロパディング)
+                       # SSSS.SSS :日射量 MJ/m2 (8桁 ゼロパディング)
+
+

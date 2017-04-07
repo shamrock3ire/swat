@@ -1,0 +1,5 @@
+relative humidity             # 任意のタイトル
+19950010066.000               # YYYYDDDHHHH.HHH
+19950020059.000               # YYYY  :西暦(4桁)
+19950030069.000               # DDD   :julian date(3桁 ゼロパディング)
+                              # HHHH.HHH :相対湿度 % (8桁 ゼロパディング)
